@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="measurements">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+    <string name="default_value"></string>
+    <string name="input_hint">Enter a value to convert</string>
+    <string name="centimetre_label">Centimetre</string>
+    <string name="foot_label">Foot</string>
+    <string name="inch_label">Inch</string>
+    <string name="fahrenheit_label">Fahrenheit</string>
+    <string name="kelvin_label">Kelvin</string>
+    <string name="gram_label">Gram</string>
+    <string name="ounce_label">Ounce(Oz)</string>
+    <string name="pound_label">Pound(lb)</string>
+</resources>
