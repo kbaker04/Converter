@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     TextView resultTwo;
     TextView resultThree;
 
-    String noValue = "Please enter a value";
-    String msg = "Please enter a value to convert";
+    String noValue = "Please enter a value to convert";
+    String msg = "Please select the correct conversion icon";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
